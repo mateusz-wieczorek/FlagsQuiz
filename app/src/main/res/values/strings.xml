@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">quiz</string>
+    <string name="Start">Nowa gra</string>
+    <string name="Settings">Ustawienia</string>
+    <string name="Title">FLAGI ŚWIATA</string>
+    <string name="Back">Cofnij</string>
+    <string name="ar">Argentyna</string>
+    <string name="au">Australia</string>
+    <string name="br">Brazylia</string>
+    <string name="ca">Kanada</string>
+    <string name="cz">Czechy</string>
+    <string name="de">Niemcy</string>
+    <string name="es">Hiszpania</string>
+    <string name="fr">Francja</string>
+    <string name="no">Norwegia</string>
+    <string name="pl">Polska</string>
+    <string name="se">Szwecja</string>
+    <string name="us">Stany Zjednoczone</string>
+    <string name="imageButton1">flaga nr 1</string>
+    <string name="imageButton2">flaga nr 2</string>
+    <string name="imageButton3">flaga nr 3</string>
+    <string name="imageButton4">flaga nr 4</string>
+    <string name="imageButton5">flaga nr 5</string>
+    <string name="imageButton6">flaga nr 6</string>
+    <string name="imageRefresh">odśwież</string>
+
+
+
+
+</resources>
